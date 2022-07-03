@@ -3,4 +3,7 @@ Gitの練習をしていきまう。
 aaaaa
 
 
+ git add
+ git commit
+
 
